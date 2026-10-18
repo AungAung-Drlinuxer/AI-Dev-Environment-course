@@ -1,0 +1,9 @@
+# ဤဖိုင်သည် OPTIONAL ဖြစ်သည်။
+# course ၏ lab (`modules/*/lab.py`) အားလုံးသည် Python standard library သာ သုံးသဖြင့် ဤဖိုင် မလိုအပ်ပါ။
+# သင်ခန်းစာများတွင် ဖော်ပြထားသည့် ကိရိယာများကို ကိုယ်တိုင် လေ့ကျင့်လိုပါက အောက်ပါအတိုင်း install လုပ်နိုင်သည်။
+# version များသည် အချိန်နှင့်အမျှ ပြောင်းလဲသည် — install မီ မိမိ Python/CUDA version အတွက် official documentation ကို စစ်ပါ။
+# torch                # module 01, 03, 06, 12
+# datasets             # module 09
+# jupyterlab           # module 05
+# anthropic            # module 04
+# numpy                # module 13

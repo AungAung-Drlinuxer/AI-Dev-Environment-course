@@ -1,0 +1,20 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.log
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+# ဤ course တွင် မော်ဒယ် checkpoint နှင့် data ဖိုင်ကြီးများကို ထည့်မသိမ်းရ
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.bin
+data/
+datasets/
+models/
