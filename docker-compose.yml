@@ -10,6 +10,8 @@
 
 services:
   qdrant:
+    # Source lesson 07 pins `qdrant/qdrant:v1.12.5`; ဤဖိုင်တွင် `latest` ကို သုံးထားသည်။
+    # module 07 ၏ exercise 4 သည် tag နှစ်မျိုး၏ ကွာခြားချက်ကို နှိုင်းယှဉ်ပြသည် — run မီ tag ကို စစ်ပါ။
     image: qdrant/qdrant:latest
     container_name: aidev-qdrant
     ports:
