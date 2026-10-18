@@ -423,7 +423,9 @@ Source သည် **၁၃ ခု** သော lesson ရှိသည် (01–13)
 - **Source:** `phases/00-setup-and-tooling/13-python-for-ai-engineering/docs/en.md`
 - **Web:** https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F13-python-for-ai-engineering
 - **Type / Languages / Time:** Build · Python · ~120 min
-- **အနှစ်ချုပ်:** Most code in this course uses the same small set of Python idioms. Learn that set here, before the math and model lessons depend on it. (~120 min) Source စာသား — "Most code in this course uses the same small set of Python idioms. Learn that set here, before the math and model lessons depend on it."
+- **အနှစ်ချုပ်:** Most code in this course uses the same small set of Python idioms. Learn that set here, before the math and
+  model lessons depend on it.
+- **Time note:** source တွင် ~120 min (module 13 ခုအနက် အရှည်ဆုံး lesson)
 
 ### Must cover (source ၏ subtopic အစဉ်အတိုင်း)
 
