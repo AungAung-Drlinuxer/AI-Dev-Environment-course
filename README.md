@@ -36,7 +36,7 @@ source ၏ lesson တိုင်းအတွက် `explanation.md`၊ `exercis
 | 10 | [Terminal & Shell](modules/10_terminal_and_shell/README.md) | Learn | ~35 min | `modules/10_terminal_and_shell/lab.py` |
 | 11 | [Linux for AI](modules/11_linux_for_ai/README.md) | Learn | ~30 min | `modules/11_linux_for_ai/lab.py` |
 | 12 | [Debugging & Profiling](modules/12_debugging_and_profiling/README.md) | Build | ~45 min | `modules/12_debugging_and_profiling/lab.py` |
-| 13 | [Python for AI Engineering](modules/13_python_for_ai_engineering/README.md) | Build | ~90 min | `modules/13_python_for_ai_engineering/lab.py` |
+| 13 | [Python for AI Engineering](modules/13_python_for_ai_engineering/README.md) | Build | ~120 min | `modules/13_python_for_ai_engineering/lab.py` |
 
 ## ဖိုင်တည်ဆောက်ပုံ
 

@@ -33,7 +33,13 @@ Source — [`rohitg00/ai-engineering-from-scratch`](https://github.com/rohitg00/
 | 10 | Terminal & Shell | Learn · ~35 min | `modules/10_terminal_and_shell/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F10-terminal-and-shell) |
 | 11 | Linux for AI | Learn · ~30 min | `modules/11_linux_for_ai/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F11-linux-for-ai) |
 | 12 | Debugging & Profiling | Build · Python · ~45 min | `modules/12_debugging_and_profiling/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F12-debugging-and-profiling) |
-| 13 | Python for AI Engineering | Build · Python · ~90 min | `modules/13_python_for_ai_engineering/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F13-python-for-ai-engineering) |
+| 13 | Python for AI Engineering | Build · Python · ~120 min | `modules/13_python_for_ai_engineering/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F13-python-for-ai-engineering) |
+
+### Lesson 13 — source ၏ ဖော်ပြချက်
+
+> Most code in this course uses the same small set of Python idioms. Learn that set here, before the math and model lessons depend on it.
+
+`[Build · Python · ~120 min](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F13-python-for-ai-engineering)`
 
 ## လေ့လာသည့် အစီအစဉ် (၄ ပတ်)
 

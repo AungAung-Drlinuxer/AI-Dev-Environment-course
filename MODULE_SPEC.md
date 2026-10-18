@@ -422,8 +422,8 @@ Source သည် **၁၃ ခု** သော lesson ရှိသည် (01–13)
 - **Folder:** `modules/13_python_for_ai_engineering/`
 - **Source:** `phases/00-setup-and-tooling/13-python-for-ai-engineering/docs/en.md`
 - **Web:** https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F13-python-for-ai-engineering
-- **Type / Languages / Time:** Build · Python · ~90 min
-- **အနှစ်ချုပ်:** Read and write the idioms the course code uses; find the three silent Python mistakes; build a loader, a split and a mini-batch generator with the standard library.
+- **Type / Languages / Time:** Build · Python · ~120 min
+- **အနှစ်ချုပ်:** Most code in this course uses the same small set of Python idioms. Learn that set here, before the math and model lessons depend on it. (~120 min) Source စာသား — "Most code in this course uses the same small set of Python idioms. Learn that set here, before the math and model lessons depend on it."
 
 ### Must cover (source ၏ subtopic အစဉ်အတိုင်း)
 
