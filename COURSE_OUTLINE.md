@@ -23,16 +23,16 @@ Source — [`rohitg00/ai-engineering-from-scratch`](https://github.com/rohitg00/
 |---|---|---|---|---|
 | 01 | Dev Environment | Build · Python, Node.js, Rust · ~45 min | `modules/01_dev_environment/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F01-dev-environment) |
 | 02 | Git & Collaboration | Build · ~30 min | `modules/02_git_and_collaboration/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F02-git-and-collaboration) |
-| 03 | GPU Setup & Cloud | Build · Python · ~40 min | `modules/03_gpu_setup_and_cloud/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F03-gpu-setup-and-cloud) |
+| 03 | GPU Setup & Cloud | Build · Python · ~45 min | `modules/03_gpu_setup_and_cloud/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F03-gpu-setup-and-cloud) |
 | 04 | APIs & Keys | Build · Python · ~30 min | `modules/04_apis_and_keys/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F04-apis-and-keys) |
 | 05 | Jupyter Notebooks | Build · Python · ~30 min | `modules/05_jupyter_notebooks/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F05-jupyter-notebooks) |
-| 06 | Python Environments | Build · Python · ~35 min | `modules/06_python_environments/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F06-python-environments) |
+| 06 | Python Environments | Build · Python · ~30 min | `modules/06_python_environments/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F06-python-environments) |
 | 07 | Docker for AI | Build · Docker · ~60 min | `modules/07_docker_for_ai/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F07-docker-for-ai) |
 | 08 | Editor Setup | Build · ~20 min | `modules/08_editor_setup/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F08-editor-setup) |
 | 09 | Data Management | Build · Python · ~45 min | `modules/09_data_management/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F09-data-management) |
 | 10 | Terminal & Shell | Learn · ~35 min | `modules/10_terminal_and_shell/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F10-terminal-and-shell) |
 | 11 | Linux for AI | Learn · ~30 min | `modules/11_linux_for_ai/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F11-linux-for-ai) |
-| 12 | Debugging & Profiling | Build · Python · ~45 min | `modules/12_debugging_and_profiling/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F12-debugging-and-profiling) |
+| 12 | Debugging & Profiling | Build · Python · ~60 min | `modules/12_debugging_and_profiling/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F12-debugging-and-profiling) |
 | 13 | Python for AI Engineering | Build · Python · ~120 min | `modules/13_python_for_ai_engineering/` | [link](https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F13-python-for-ai-engineering) |
 
 ### Lesson 13 — source ၏ ဖော်ပြချက်

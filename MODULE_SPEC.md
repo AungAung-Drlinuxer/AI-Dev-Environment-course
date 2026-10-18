@@ -90,7 +90,7 @@ Source သည် **၁၃ ခု** သော lesson ရှိသည် (01–13)
 - **Folder:** `modules/03_gpu_setup_and_cloud/`
 - **Source:** `phases/00-setup-and-tooling/03-gpu-setup-and-cloud/docs/en.md`
 - **Web:** https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F03-gpu-setup-and-cloud
-- **Type / Languages / Time:** Build · Python · ~40 min
+- **Type / Languages / Time:** Build · Python · ~45 min
 - **အနှစ်ချုပ်:** Verify local GPU availability with nvidia-smi and PyTorch's CUDA API; benchmark CPU against GPU.
 
 ### Must cover (source ၏ subtopic အစဉ်အတိုင်း)
@@ -180,7 +180,7 @@ Source သည် **၁၃ ခု** သော lesson ရှိသည် (01–13)
 - **Folder:** `modules/06_python_environments/`
 - **Source:** `phases/00-setup-and-tooling/06-python-environments/docs/en.md`
 - **Web:** https://aiengineeringfromscratch.com/lesson?path=phases%2F00-setup-and-tooling%2F06-python-environments
-- **Type / Languages / Time:** Build · Python · ~35 min
+- **Type / Languages / Time:** Build · Python · ~30 min
 - **အနှစ်ချုပ်:** Create isolated environments with uv, venv or conda and write a pyproject.toml with lockfiles.
 
 ### Must cover (source ၏ subtopic အစဉ်အတိုင်း)

@@ -26,16 +26,16 @@ source ၏ lesson တိုင်းအတွက် `explanation.md`၊ `exercis
 |---|---|---|---|---|
 | 01 | [Dev Environment](modules/01_dev_environment/README.md) | Build | ~45 min | `modules/01_dev_environment/lab.py` |
 | 02 | [Git & Collaboration](modules/02_git_and_collaboration/README.md) | Build | ~30 min | `modules/02_git_and_collaboration/lab.py` |
-| 03 | [GPU Setup & Cloud](modules/03_gpu_setup_and_cloud/README.md) | Build | ~40 min | `modules/03_gpu_setup_and_cloud/lab.py` |
+| 03 | [GPU Setup & Cloud](modules/03_gpu_setup_and_cloud/README.md) | Build | ~45 min | `modules/03_gpu_setup_and_cloud/lab.py` |
 | 04 | [APIs & Keys](modules/04_apis_and_keys/README.md) | Build | ~30 min | `modules/04_apis_and_keys/lab.py` |
 | 05 | [Jupyter Notebooks](modules/05_jupyter_notebooks/README.md) | Build | ~30 min | `modules/05_jupyter_notebooks/lab.py` |
-| 06 | [Python Environments](modules/06_python_environments/README.md) | Build | ~35 min | `modules/06_python_environments/lab.py` |
+| 06 | [Python Environments](modules/06_python_environments/README.md) | Build | ~30 min | `modules/06_python_environments/lab.py` |
 | 07 | [Docker for AI](modules/07_docker_for_ai/README.md) | Build | ~60 min | `modules/07_docker_for_ai/lab.py` |
 | 08 | [Editor Setup](modules/08_editor_setup/README.md) | Build | ~20 min | `modules/08_editor_setup/lab.py` |
 | 09 | [Data Management](modules/09_data_management/README.md) | Build | ~45 min | `modules/09_data_management/lab.py` |
 | 10 | [Terminal & Shell](modules/10_terminal_and_shell/README.md) | Learn | ~35 min | `modules/10_terminal_and_shell/lab.py` |
 | 11 | [Linux for AI](modules/11_linux_for_ai/README.md) | Learn | ~30 min | `modules/11_linux_for_ai/lab.py` |
-| 12 | [Debugging & Profiling](modules/12_debugging_and_profiling/README.md) | Build | ~45 min | `modules/12_debugging_and_profiling/lab.py` |
+| 12 | [Debugging & Profiling](modules/12_debugging_and_profiling/README.md) | Build | ~60 min | `modules/12_debugging_and_profiling/lab.py` |
 | 13 | [Python for AI Engineering](modules/13_python_for_ai_engineering/README.md) | Build | ~120 min | `modules/13_python_for_ai_engineering/lab.py` |
 
 ## ဖိုင်တည်ဆောက်ပုံ
@@ -59,6 +59,19 @@ AI-Dev-Environment-course/
     │   └── lab.py            # exercise ၆ ခုကို assert ဖြင့် စစ်သည့် ကုဒ်
     └── ... 13
 ```
+
+## Hands-on labs (ဒေသအတွင်း run နိုင်သည်)
+
+Module တိုင်းတွင် `lab.py` တစ်ခု ပါပြီး exercise ၆ ခုကို `assert` ဖြင့် စစ်သည်။ Lab များသည်
+**offline နှင့် deterministic** ဖြစ်သည် — Python standard library သာ သုံးသဖြင့် GPU၊ Docker၊ network
+မလိုဘဲ ကိုယ်ပိုင် machine တွင် ချက်ချင်း run နိုင်သည်။
+
+```bash
+python3 run_all_labs.py            # module ၁၃ ခုလုံး
+python3 run_all_labs.py --module 12 --verbose
+```
+
+လက်ရှိ run ရလဒ် — **၁၃ module / ၇၈ exercise / `[SUCCESS]`**။ အသေးစိတ်ကို [`LABS_GUIDE.md`](LABS_GUIDE.md) တွင် ကြည့်ပါ။
 
 ## လေ့ကျင့်နည်း
 

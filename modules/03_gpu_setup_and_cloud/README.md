@@ -2,7 +2,7 @@
 
 > Training on CPU is fine for learning. Training for real needs a GPU.
 
-**Type:** Build · **Languages:** Python · **Time:** ~40 min
+**Type:** Build · **Languages:** Python · **Time:** ~45 min
 **Prerequisites:** Phase 0, Lesson 01 (module 01 — Dev Environment)
 
 ## ရည်ရွယ်ချက်
